@@ -60,7 +60,6 @@ streamlit run app.py
 
 🛠️ Tech Stack
 
-Copy code
 
 🤖 AI: TensorFlow 2.13 | Keras | EfficientNetB0
 
